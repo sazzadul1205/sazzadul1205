@@ -2,9 +2,8 @@
 <h3 align="center">I am a passionate FullStak Developer From Dhaka,Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sazzadul1205&label=Profile%20views&color=0e75b6&style=flat" alt="sazzadul1205" /> </p>
-<img align="center" alt="Coding" width="600" src="https://i.ibb.co/d5rQDVB/banner0001.jpg">
-
 <p align="left"> <a href="https://twitter.com/@sazzadu84352084" target="blank"><img src="https://img.shields.io/twitter/follow/@sazzadu84352084?logo=twitter&style=for-the-badge" alt="@sazzadu84352084" /></a> </p>
+<img align="center" alt="Coding" width="8000" src="https://i.ibb.co/d5rQDVB/banner0001.jpg">
 
 - 🌱 I’m currently learning **ReactJS, NodeJS and NextJS**
 
