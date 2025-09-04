@@ -51,20 +51,33 @@ Dhaka, Bangladesh | 1 years experience on ReactJs & NodeJS
 
 ## 🚀 Notable Projects
 
-| Project                     | Description                                       | Link                                                                              |
-|-----------------------------|---------------------------------------------------|-----------------------------------------------------------------------------------|
-| ** Seven Gym **  | A Gym Wesite for a Trainee to Access      | [Live Demo](https://seven-gym-1885e.web.app/))                                          |
-| **Job Portal Dashboard**    | Full-stack dashboard (React, Node.js, MongoDB)    | [Repo](https://github.com/sazzadul1205/job-portal-dashboard)                      |
-| **DataHive Logo Design**    | Logo concepts for a SaaS startup (Figma, AI)      | [Portfolio](https://example.com/logos)                                            |
+| Project                     | Description                                         | Link                                                                              |
+|-----------------------------|-----------------------------------------------------|-----------------------------------------------------------------------------------|
+| **Seven Gym**               | A Gym Wesite for a Trainee to Access                | [Live Demo](https://seven-gym-1885e.web.app/)                                     |
+| **Master Job Shop**         | A Job Platform for the public to find jobs and more | [Live Demo](https://master-job-shop.web.app/)                                     |
+| **Tanbir A Portfolio**      | A Portfolio for a SVG Anamator                      | [Portfolio]                                                                       |
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="left">
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=sazzadul1205&show_icons=true&locale=en" alt="GitHub Stats" />
+
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sazzadul1205&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sazzadul1205&" alt="GitHub Streak" />
+
+  <!-- Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=sazzadul1205&theme=radical&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sazzadul1205&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
 </p>
+
 
 ---
 
