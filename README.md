@@ -13,6 +13,9 @@
   ⚡ Current Status: <i>PC under maintenance, but still learning & building whenever possible!</i>
 </p>
 
+<p>
+  Current course: IsDB-BISEW IT Scholarship Programme || Deploma In Professional Web Application Development
+</p>
 
 ---
 
