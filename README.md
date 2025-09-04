@@ -2,12 +2,17 @@
 
 # Hi, I’m Sazzadul Islam Molla 👋
 
-**Full-Stack Web Developer**  
-Dhaka, Bangladesh | 1 years experience on ReactJs & NodeJS
+**💻 Full-Stack Web Developer**  
+📍 Dhaka, Bangladesh | 1+ years of experience with **React.js** & **Node.js**
 
 <p>
-  Currently Working On : Master Job Shop ( Updating UI and Access Parts ) 
+  🔨 Currently Working On: <b>Master Job Shop</b> — enhancing UI and improving access modules.
 </p>
+
+<p>
+  ⚡ Current Status: <i>PC under maintenance, but still learning & building whenever possible!</i>
+</p>
+
 
 ---
 
