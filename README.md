@@ -10,7 +10,7 @@
 </p>
 
 <p>
-  ⚡ Current Status: <i>PC under maintenance, but still learning & building whenever possible!</i>
+  ⚡ Current Status: <i>In a IT Scholarship Programme & Workinhg on My Website </i>
 </p>
 
 <p>
