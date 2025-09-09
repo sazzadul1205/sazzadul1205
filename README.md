@@ -1,4 +1,4 @@
-[![Banner](https://i.ibb.co/VB0bKpD/banner0001.jpg)](https://rishavchanda.io)
+[![Banner](https://i.ibb.co.com/R4sZzT8N/R.jpg)](https://rishavchanda.io)
 
 # Hi, I’m Sazzadul Islam Molla 👋
 
