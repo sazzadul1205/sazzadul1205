@@ -1,21 +1,36 @@
 [![Banner](https://i.ibb.co.com/R4sZzT8N/R.jpg)](https://rishavchanda.io)
 
-# Hi, I’m Sazzadul Islam Molla 👋
+# 👋 Hi, I’m Sazzadul Islam Molla  
 
-**💻 Full-Stack Web Developer**  
-📍 Dhaka, Bangladesh | 1+ years of experience with **React.js** & **Node.js**
+💻 **Full-Stack Web Developer**  
+📍 Dhaka, Bangladesh | 🌐 1+ year of experience with **React.js** & **Node.js**  
 
-<p>
-  🔨 Currently Working On: <b>Master Job Shop</b> — enhancing UI and improving access modules.
-</p>
+---
 
-<p>
-  ⚡ Current Status: <i>In a IT Scholarship Programme & Workinhg on My Website </i>
-</p>
+## 🚀 About Me  
+- Passionate about crafting **scalable and user-friendly web applications**.  
+- Skilled in **frontend & backend development** with a strong focus on **UI/UX**.  
+- Love solving real-world problems with modern technologies.  
 
-<p>
-  Current course: IsDB-BISEW IT Scholarship Programme || Deploma In Professional Web Application Development
-</p>
+---
+
+## 🔨 Current Work  
+**Master Job Shop**  
+- Enhancing UI for better user experience.  
+- Improving access modules & optimizing workflows.  
+
+---
+
+## 📚 Learning & Growth  
+🎓 Currently enrolled in the **IsDB-BISEW IT Scholarship Programme**  
+📖 Diploma in **Professional Web Application Development**  
+🌱 Building my **personal portfolio website**  
+
+---
+
+## ⚡ Current Status  
+🚀 Expanding my skills, contributing to projects, and shaping my journey as a **professional full-stack developer**.  
+
 
 ---
 
