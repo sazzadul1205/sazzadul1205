@@ -93,24 +93,69 @@
 
 <table>
   <tr>
-    <th>Project</th>
-    <th>Description</th>
-    <th>Live Demo</th>
+    <th width="30%">Project</th>
+    <th width="50%">Description</th>
+    <th width="20%">Links</th>
   </tr>
   <tr>
-    <td><strong>🏋️ Seven Gym</strong></td>
-    <td>A comprehensive gym website for trainees to access workout plans and track progress</td>
-    <td><a href="https://seven-gym-1885e.web.app/"><img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" /></a></td>
+    <td>
+      <strong>🩸 Blood Connect</strong><br>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js" />
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb" />
+    </td>
+    <td>
+      A comprehensive web application streamlining the blood donation ecosystem. Donors manage profiles, hospitals create requests, and blood banks oversee inventory — all with real-time updates and role-based access.
+    </td>
+    <td align="center">
+      <a href="#"><img src="https://img.shields.io/badge/Live-00C7B7?style=flat&logo=vercel&logoColor=white" /></a><br>
+      <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
+    </td>
   </tr>
   <tr>
-    <td><strong>💼 Master Job Shop</strong></td>
-    <td>Job platform connecting job seekers with opportunities and employers</td>
-    <td><a href="https://master-job-shop.web.app/"><img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" /></a></td>
+    <td>
+      <strong>🦷 Dental Chamber Management System</strong><br>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel" />
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php" />
+      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react" />
+    </td>
+    <td>
+      A full-scale practice automation platform streamlining clinical, financial, and administrative workflows for dental clinics. Features drag-and-drop website builder and comprehensive backend management.
+    </td>
+    <td align="center">
+      <a href="#"><img src="https://img.shields.io/badge/Live-00C7B7?style=flat&logo=vercel&logoColor=white" /></a><br>
+      <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
+    </td>
   </tr>
   <tr>
-    <td><strong>🎨 Tanbir A Portfolio</strong></td>
-    <td>Creative portfolio showcasing SVG animation work</td>
-    <td><em>Coming Soon</em></td>
+    <td>
+      <strong>📦 Asset Tracker Pro</strong><br>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js" />
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb" />
+      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss" />
+    </td>
+    <td>
+      Enterprise-grade asset management platform with role-based access, complete asset lifecycle tracking, multi-level approval workflows, barcode generation, and real-time inventory management.
+    </td>
+    <td align="center">
+      <a href="#"><img src="https://img.shields.io/badge/Live-00C7B7?style=flat&logo=vercel&logoColor=white" /></a><br>
+      <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>🏪 B2Bমার্কেট</strong><br>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel" />
+      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql" />
+    </td>
+    <td>
+      Enterprise B2B procurement platform connecting buyers and verified suppliers through RFQ management, quote comparison, real-time messaging, and streamlined order processing.
+    </td>
+    <td align="center">
+      <a href="#"><img src="https://img.shields.io/badge/Live-00C7B7?style=flat&logo=vercel&logoColor=white" /></a><br>
+      <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
+    </td>
   </tr>
 </table>
 
