@@ -1,6 +1,6 @@
 [![Banner](https://i.ibb.co.com/hFL5yYRg/og-image.png)](https://rishavchanda.io)
 
-<h1 align="center">👋 Hi, I'm Sazzadul Islam Molla</h1>
+<h1 align="center">👋 Hi, I'm Sazzadul Islam</h1>
 <h3 align="center">Full-Stack Web Developer | Problem Solver | Tech Enthusiast</h3>
 
 <p align="center">
