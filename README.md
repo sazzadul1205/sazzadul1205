@@ -12,25 +12,23 @@
 
 ## Who I Am
 
-Full-Stack Developer based in **Dhaka, Bangladesh** — currently building production-grade web apps across two companies simultaneously while freelancing on the side.
+Full-Stack Developer based in **Dhaka, Bangladesh** — actively freelancing, contributing to a startup, and expanding my skills through an internship, all at the same time.
 
-- 🏢 **Prime Tech Solutions Ltd** — Employed full-stack developer
-- 🚀 **SixonicIT** — Part-time, building web apps for a growing startup
+- 🏢 **Prime Tech Solutions Ltd** — Intern, learning enterprise Web Dev & .NET fundamentals
+- 🚀 **SixonicIT** — Part-time, building a full Dental Chamber Management System for a growing startup
+- 🧑‍💻 **Freelance** — Independently delivering a combined CMS + Job Portal for Dwip Unnayan Sangstha
 - 🎓 Graduate of the **IsDB-BISEW IT Scholarship Programme**
-- 💪 1+ year shipping real products with React, Next.js, Node.js, and Laravel
-
-I don't just write code — I build things people use.
+- 💪 1+ year shipping real projects with React, Next.js, Node.js, and Laravel
 
 ---
 
 ## What I'm Building Right Now
 
-| Project | Company | Description |
-|---------|---------|-------------|
-| **Job Portal** | Prime Tech Solutions | Full-scale job listing and application platform |
-| **Dwip Unnayan Sangstha CMS** | Prime Tech Solutions | Content management system for a development organization |
-| **SixonicIT Web App** | SixonicIT | Custom web application for a tech startup |
-| **Small-Scale E-Commerce** | Personal | Hands-on commerce project — built for fun, built to learn |
+| Project | Type | Description |
+|---------|------|-------------|
+| **Dwip Unnayan Sangstha — CMS + Job Portal** | Freelance | A single platform combining content management and job listings for a local organization |
+| **Dental Chamber Management System** | SixonicIT | Full-scale clinic automation — appointments, billing, patient records, and admin workflows |
+| **Small-Scale E-Commerce** | Personal | A hands-on commerce project built for learning and fun |
 
 ---
 
@@ -50,7 +48,7 @@ I don't just write code — I build things people use.
 | Project | Description | Stack | Links |
 |---------|-------------|-------|-------|
 | **🩸 Blood Connect** | Blood donation ecosystem — donor profiles, hospital requests, real-time inventory | React, Node.js, MongoDB | [Live](#) • [Repo](#) |
-| **🦷 Dental Chamber Management** | Full-scale clinic automation — clinical, financial, and admin workflows + drag-and-drop builder | Laravel, PHP, React | [Live](#) • [Repo](#) |
+| **🦷 Dental Chamber Management** | Full-scale clinic automation — clinical, financial & admin workflows + drag-and-drop builder | Laravel, PHP, React | [Live](#) • [Repo](#) |
 | **📦 Asset Tracker Pro** | Enterprise asset management — role-based access, approval workflows, barcode generation | Next.js, MongoDB, Tailwind | [Live](#) • [Repo](#) |
 | **🏪 B2Bমার্কেট** | B2B procurement platform — RFQ management, quote comparison, real-time messaging | Laravel, React, MySQL | [Live](#) • [Repo](#) |
 
@@ -82,8 +80,8 @@ I don't just write code — I build things people use.
 > *"Write clean code. Ship fast. Build things that last."*
 
 - I work across the full stack — from database schema to pixel-perfect UI
-- I've shipped production apps used by real organizations, not just tutorial projects
-- I'm comfortable working independently and inside a team under real deadlines
+- I freelance and contribute to real startups alongside my internship — I don't wait for opportunities, I create them
+- I'm comfortable working independently under real deadlines with real clients
 - I'm always building something — if it's not for work, it's for learning
 
 ---
@@ -99,5 +97,5 @@ I don't just write code — I build things people use.
 ---
 
 <div align="center">
-  <i>I'm open to full-stack roles, freelance projects, and collaborations. Let's build something real.</i>
+  <i>Open to full-stack roles, freelance projects, and collaborations. Let's build something real.</i>
 </div>
