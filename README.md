@@ -24,11 +24,13 @@
 
 **Full-Stack Developer** based in **Dhaka, Bangladesh** — actively freelancing, contributing to startups, and leveling up through an internship. Currently diving deep into **ASP.NET Core** (MVC & Web API) while shipping production-grade applications.
 
-- 🏢 **Prime Tech Solutions Ltd** — Intern, mastering enterprise-grade .NET development
-- 🚀 **SixonicIT** — Part-time, building a full Dental Chamber Management System
-- 🧑‍💻 **Freelance** — CMS + Job Portal for Dwip Unnayan Sangstha
-- 🎓 Graduate of the **IsDB-BISEW IT Scholarship Programme**
-- 💪 1+ year shipping real-world applications
+* 🏢 **Prime Tech Solutions Ltd** — Intern, mastering enterprise-grade .NET development
+* 🚀 **SixonicIT** — Part-time, building a full Dental Chamber Management System
+* 🧑‍💻 **Freelance** — CMS + Job Portal for Dwip Unnayan Sangstha
+* 🎓 **IsDB-BISEW IT Scholarship Programme** — Graduate
+* 🎓 **Programming Hero** — Certificate of Completion, 8th Batch
+* 🎓 **Shyamoli Ideal Polytechnic Institute** — Completed Diploma
+* 💪 **1+ year** of experience shipping real-world applications
 
 <h3 align="center">📚 Currently Learning</h3>
 <p align="center">
