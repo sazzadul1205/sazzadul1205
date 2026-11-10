@@ -1,9 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sazzadul%20Islam%20Molla&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header" />
+<a href="https://github.com/sazzadul1205">
+  <img src="https://i.ibb.co.com/hFL5yYRg/og-image.png" alt="Banner" width="100%" />
+</a>
+
+<h1>Hi 👋, I'm Sazzadul Islam Molla</h1>
+<h3>Full-Stack Developer · Building real products for real people</h3>
 
 <a href="https://github.com/sazzadul1205">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Full-Stack+Developer+%C2%B7+Dhaka,+Bangladesh;Building+real+products+for+real+people;ASP.NET+Core+%C2%B7+React+%C2%B7+Laravel+%C2%B7+Node.js" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Full-Stack+Developer+%C2%B7+Dhaka,+Bangladesh;ASP.NET+Core+%C2%B7+React+%C2%B7+Laravel+%C2%B7+Node.js;Freelancing.+Interning.+Always+shipping." alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -135,4 +140,7 @@ Full-Stack Developer with **1+ year** of experience shipping real-world applicat
   <img src="https://img.shields.io/badge/Open_to-Freelance-4ECDC4?style=flat-square" />
   <img src="https://img.shields.io/badge/Open_to-Roles-45B7D1?style=flat-square" />
   <br/><br/>
-  <i>Let's build something real
+  <i>Let's build something real together. 🚀</i>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=90&section=footer" width="100%" alt="Footer" />
