@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/sazzadul1205">
-  <img src="https://i.ibb.co.com/hFL5yYRg/og-image.png" alt="Banner" width="100%" />
+  <img src="https://i.ibb.co.com/G4vyKG1X/Sazzadul-Islam-Full-Stack-Developer-Banner.png" alt="Banner" width="100%" />
 </a>
 
 <h1>Hi 👋, I'm Sazzadul Islam Molla</h1>
